@@ -1200,6 +1200,9 @@
   "Swellaby.vscode-rust-test-adapter": {
     "repository": "https://github.com/swellaby/vscode-rust-test-adapter"
   },
+  "tabeyti.jenkins-jack": {
+    "repository": "https://github.com/tabeyti/jenkins-jack"
+  },
   "tanhakabir.rest-book": {
     "repository": "https://github.com/tanhakabir/rest-book"
   },
